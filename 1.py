@@ -31,8 +31,10 @@ elif
 user_action == "scissors"：
 if
 computer_action == "paper":
-print ("scissors cuts paper ! you win.")
+print ("scissors cuts paper ! you win")
+
+
 score1+=1
 print (score1)
 else :
-print ("rock smash scissors ! you lose.")
+print ("rock smash scissors ! you lose")
